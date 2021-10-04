@@ -100,7 +100,7 @@ bridge:
             require_cross_signing: false
             # Require devices to be verified by the bridge?
             # Verification by the bridge is not yet implemented.
-            require_verification: true
+            require_verification: false
 
 # Logging config.
 logging:
