@@ -119,4 +119,4 @@ logging:
     timestamp_format: Jan _2, 2006 15:04:05
     # Minimum severity for log messages.
     # Options: debug, info, warn, error, fatal
-    print_level: debug
+    print_level: info
