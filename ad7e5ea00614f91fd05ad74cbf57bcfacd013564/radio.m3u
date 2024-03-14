@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.brands/622f5c57b4c3b4cfaf1dc640"  group-title="Radio",WBZ NewsRadio 1030
+https://n42b-e2.revma.ihrhls.com/zc7729/66_1x9te2j3161gw02/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo=""  group-title="Radio",NHPR 89.1
+https://nhpr.streamguys1.com/nhpr
+
+#EXTINF:-1 radio="true" tvg-logo=""  group-title="Radio",GBH 89.7
+https://wgbh-live.streamguys1.com/wgbh
+
+#EXTINF:-1 radio="true" tvg-logo=""  group-title="Radio",WEEI 93.7
+https://live.amperwave.net/manifest/audacy-weeifmaac-hlsc.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo=""  group-title="Radio",The Sports Hub 98.5
+https://24413.live.streamtheworld.com/WBZFMAACHI.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://theriverboston.com/wp-content/themes/ninetytwofive/library/images/headerlogo-wxrv.png"  group-title="Radio",The River 92.5
+https://ais-sa1.streamon.fm/7859_96k.aac
