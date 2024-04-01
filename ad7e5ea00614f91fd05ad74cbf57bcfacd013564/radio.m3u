@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://nesn.com/wp-content/uploads/2019/10/nesn_wave_logo_horizontal_.png"  group-title="Live TV",NESN
-https://1.dlhd.sx/stream/stream-762.php
+https://d.daddylivehd.sx/embed/stream-762.php
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.brands/622f5c57b4c3b4cfaf1dc640"  group-title="Radio",WBZ NewsRadio 1030
 https://stream.revma.ihrhls.com/zc7729/hls.m3u8
