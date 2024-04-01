@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 radio="true" tvg-logo="https://nesn.com/wp-content/uploads/2019/10/nesn_wave_logo_horizontal_.png"  group-title="Live TV",NESN
+#EXTINF:-1 tvg-logo="https://nesn.com/wp-content/uploads/2019/10/nesn_wave_logo_horizontal_.png"  group-title="Live TV",NESN
 https://1.dlhd.sx/stream/stream-762.php
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.brands/622f5c57b4c3b4cfaf1dc640"  group-title="Radio",WBZ NewsRadio 1030
-https://n42b-e2.revma.ihrhls.com/zc7729/66_1x9te2j3161gw02/playlist.m3u8
+https://n3da-e2.revma.ihrhls.com/zc7729/hls.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="https://npr-brightspot.s3.amazonaws.com/legacy/sites/nhpr/files/202009/CoBrandWebHeader_0.png"  group-title="Radio",NHPR 89.1
 https://nhpr.streamguys1.com/nhpr
